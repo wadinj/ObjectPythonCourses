@@ -57,4 +57,17 @@ print(math.factorial(5))
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
-  
+
+# Un peu de cmd
+
+# Le débugger dans VSCode/Python.
+
+# Les classes
+# Il est possible d'encapsuler des élements de logique au sein d'un entité, appelée "classe"
+# Une classe, est un regroupement de fonction logique.
+# Les frontières d'une classe ne sont pas définis
+# Pour définir une classe en Python : 
+
+# Voir classExample.py
+
+# Les tests avec pytest
